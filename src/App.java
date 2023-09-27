@@ -13,7 +13,13 @@ public class App {
 
         System.out.println("dina heltal var i annan ordning: "+heltal[3]+" , "+heltal[2]+" , "+heltal[1]+" och "+heltal[0]);
 
+        String gissning = tangentbord.nextLine();
+        String[] ord = {"Hej","på","dig"};
 
+        boolean svar;
+
+        svar = 
+        
         }
     }
 }
